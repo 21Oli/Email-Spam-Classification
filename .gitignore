@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model cache
+*.joblib
+
+# Large datasets
+data/
+*.xls
+*.xlsx
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/cache/

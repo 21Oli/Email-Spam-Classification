@@ -187,13 +187,13 @@ streamlit run app.py
 
 # Single Prediction
 
-![Single Prediction](images/single_prediction.png)
+![Single Prediction](images/Single_Prediction.png)
 
 ---
 
 # Batch Prediction
 
-![Batch Prediction](images/batch_prediction.png)
+![Batch Prediction](images/Batch_Prediction.png)
 
 ---
 

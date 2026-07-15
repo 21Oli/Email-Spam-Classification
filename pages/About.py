@@ -590,7 +590,7 @@ with left:
 
         "Developer",
 
-        "Oli Bekele"
+        "Oli Bakala"
 
     )
 
